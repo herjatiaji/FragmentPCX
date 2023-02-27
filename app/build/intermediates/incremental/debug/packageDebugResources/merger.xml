@@ -16,7 +16,7 @@
 
 Berdasarkan pengetesan internal pabrikan lewat metode ECE R40 Euro 3 dengan pengaturan Idling Stop System aktif tercatat 45 kilometer per liter.
 
-Soal angkut barang bawaan Honda PCX160 punya kelebihan di sektor ini, bagasi utama dengan volume 30 liter mampu menampung 1 buah helm fullface.</string></file><file path="D:\FragmentPCX\app\src\main\res\values\themes.xml" qualifiers=""><style name="Theme.FragmentPCX" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+Soal angkut barang bawaan Honda PCX160 punya kelebihan di sektor ini, bagasi utama dengan volume 30 liter mampu menampung 1 buah helm fullface.</string></file><file path="D:\FragmentPCX\app\src\main\res\values\themes.xml" qualifiers=""><style name="Theme.FragmentPCX" parent="Theme.AppCompat.Light.NoActionBar">
         
         <item name="colorPrimary">@color/purple_500</item>
         <item name="colorPrimaryVariant">@color/purple_700</item>

@@ -12,6 +12,7 @@
         android:layout_margin="28dp"
         android:fontFamily="@font/montserrat"
         android:justificationMode="inter_word"
+        android:id="@+id/textView1"
         android:text="@string/content_static"
         android:textColor="@color/black" />
 

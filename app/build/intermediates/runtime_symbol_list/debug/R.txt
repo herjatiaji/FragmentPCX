@@ -2742,7 +2742,7 @@ int id bounce 0x7f0a005e
 int id bounceBoth 0x7f0a005f
 int id bounceEnd 0x7f0a0060
 int id bounceStart 0x7f0a0061
-int id button 0x7f0a0062
+int id button1 0x7f0a01df
 int id buttonPanel 0x7f0a0063
 int id cache_measures 0x7f0a0064
 int id callMeasure 0x7f0a0065
@@ -3075,6 +3075,7 @@ int id textSpacerNoTitle 0x7f0a01ab
 int id textStart 0x7f0a01ac
 int id textTop 0x7f0a01ad
 int id textView 0x7f0a01ae
+int id textView1 0x7f0a01e0
 int id text_input_end_icon 0x7f0a01af
 int id text_input_error_icon 0x7f0a01b0
 int id text_input_start_icon 0x7f0a01b1
@@ -3263,6 +3264,7 @@ int layout design_navigation_menu_item 0x7f0d002a
 int layout design_text_input_end_icon 0x7f0d002b
 int layout design_text_input_start_icon 0x7f0d002c
 int layout fragment_simple 0x7f0d002d
+int layout fragment_simple2 0x7f0d0068
 int layout m3_alert_dialog 0x7f0d002e
 int layout m3_alert_dialog_actions 0x7f0d002f
 int layout m3_alert_dialog_title 0x7f0d0030
@@ -3360,6 +3362,8 @@ int string bottomsheet_action_expand 0x7f110020
 int string bottomsheet_action_expand_halfway 0x7f110021
 int string bottomsheet_drag_handle_clicked 0x7f110022
 int string bottomsheet_drag_handle_content_description 0x7f110023
+int string btn_lihatkelebihan 0x7f110091
+int string btn_mantap 0x7f110092
 int string character_counter_content_description 0x7f110024
 int string character_counter_overflowed_content_description 0x7f110025
 int string character_counter_pattern 0x7f110026

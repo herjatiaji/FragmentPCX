@@ -4,12 +4,12 @@
         "source": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.5\\com.awikwok.fragmentpcx.app-main-31:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.5\\com.awikwok.fragmentpcx.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.5\\com.awikwok.fragmentpcx.app-main-31:\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "com.awikwok.fragmentpcx.app-merged_res-29:/layout_fragment_simple2.xml.flat",
+        "source": "com.awikwok.fragmentpcx.app-main-31:/layout/fragment_simple2.xml"
     },
     {
-        "merged": "com.awikwok.fragmentpcx.app-merged_res-29:/drawable_custom_button.xml.flat",
-        "source": "com.awikwok.fragmentpcx.app-main-31:/drawable/custom_button.xml"
+        "merged": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.5\\com.awikwok.fragmentpcx.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.5\\com.awikwok.fragmentpcx.app-main-31:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
         "merged": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.5\\com.awikwok.fragmentpcx.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
@@ -48,10 +48,6 @@
         "source": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.5\\com.awikwok.fragmentpcx.app-main-31:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.awikwok.fragmentpcx.app-merged_res-29:/layout_activity_main.xml.flat",
-        "source": "com.awikwok.fragmentpcx.app-main-31:/layout/activity_main.xml"
-    },
-    {
         "merged": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.5\\com.awikwok.fragmentpcx.app-merged_res-29:\\mipmap-mdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.5\\com.awikwok.fragmentpcx.app-main-31:\\mipmap-mdpi\\ic_launcher.webp"
     },
@@ -66,6 +62,10 @@
     {
         "merged": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.5\\com.awikwok.fragmentpcx.app-merged_res-29:\\layout_fragment_simple.xml.flat",
         "source": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.5\\com.awikwok.fragmentpcx.app-main-31:\\layout\\fragment_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.5\\com.awikwok.fragmentpcx.app-merged_res-29:\\layout_fragment_simple2.xml.flat",
+        "source": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.5\\com.awikwok.fragmentpcx.app-main-31:\\layout\\fragment_simple2.xml"
     },
     {
         "merged": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.5\\com.awikwok.fragmentpcx.app-merged_res-29:\\layout_activity_main.xml.flat",
